@@ -9,6 +9,7 @@ local function load_plugins()
     {
       'wbthomason/packer.nvim',
       'neovim/nvim-lspconfig',
+      'tpope/vim-surround',
     },
     config = {
       package_root = package_root,
