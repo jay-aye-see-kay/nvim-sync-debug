@@ -12,3 +12,7 @@ This repo exists to demonstrate this issue: https://github.com/neovim/neovim/iss
 4. observe the issue on second load of nvim:
    a. repeat steps 3a and 3b
    b. the lsp error message should now be out of sync with text in the buffer
+   
+## video of issue
+
+https://user-images.githubusercontent.com/23488939/131445436-90cccfd7-ba79-453e-9def-8a9b66eb445d.mp4
